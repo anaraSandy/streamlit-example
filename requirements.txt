@@ -1,3 +1,8 @@
-altair
-pandas
-streamlit
+###### Requirements without Version Specifiers ######
+streamlit-aggrid
+openpyxl
+nltk
+pycountry
+altair-catplot
+xlrd
+seaborn
